@@ -1,0 +1,138 @@
+# OS 1 | APM Product Challenge
+
+> **From problem discovery to product-market fit.**
+
+An end-to-end product thinking project focused on solving the APM challenge: envisioning a world in 2040 where everyone has a personal AI agent that understands them deeply and executes everyday tasks autonomously, and designing a digital product that helps protect users from the potential consequences of this paradigm.
+
+## Overview
+
+As AI agents become increasingly autonomous, they may reshape how people make decisions, delegate tasks, manage personal information and exercise control over their lives.
+
+The challenge is to understand the implications of this future and identify a meaningful, underserved problem that can be addressed through a practical digital product.
+
+Rather than starting with a predetermined solution, this project follows a **problem-first, user-centric product development approach**. It focuses on discovering the right problem, validating its importance, evaluating alternative solutions and developing a product concept grounded in user value.
+
+## Problem Statement
+
+"It's 2040. Everyone has a personal AI agent that knows them better than they know themselves and carries out their day-to-day tasks for them. Outline the ramifications of this paradigm and create a digital product that helps protect yourselves from it."
+
+## Approach
+
+The project follows a structured product discovery and development process.
+
+### 1. Problem Discovery
+
+- Analyse the implications of ubiquitous personal AI agents.
+- Identify distinct user pain points and potential failure scenarios.
+- Distinguish symptoms from underlying problems.
+- Identify specific user segments affected by each problem.
+- Understand existing workarounds and unmet needs.
+
+### 2. Opportunity Evaluation
+
+Potential problems are assessed using the Four U's framework:
+
+| Criterion | Key question |
+|---|---|
+| Unworkable | What happens if the problem remains unsolved? |
+| Unavoidable | Is the problem connected to a persistent need or recurring reality? |
+| Urgent | Why would users prioritise solving it now? |
+| Underserved | Why are existing alternatives inadequate? |
+
+Additional considerations include problem severity, frequency, evidence quality, adoption barriers, feasibility and commercial viability.
+
+### 3. Product Strategy
+
+Once the strongest opportunity is selected, the project focuses on:
+
+- Defining the initial target user segment.
+- Establishing the core job to be done.
+- Developing a clear value proposition.
+- Exploring and comparing alternative solutions.
+- Designing the minimum viable product (MVP).
+- Identifying differentiation, adoption pathways and potential business models.
+
+### 4. Validation
+
+The product hypothesis is evaluated through a structured validation plan involving:
+
+- Customer discovery and non-leading interview questions.
+- Investigation of actual user behaviour and existing alternatives.
+- Identification of the riskiest assumptions.
+- Low-cost prototype experiments.
+- Measurable success criteria and explicit decision thresholds.
+
+The objective is to distinguish genuine user demand from hypothetical interest.
+
+### 5. Submission and Prototyping
+
+The final deliverables are designed to communicate both the strategic rationale and the product experience.
+
+- **Two-page PDF:** Problem analysis, user insight, product proposition, differentiation and validation strategy.
+- **Interactive prototype:** A focused demonstration of the product's core mechanism and intended user experience.
+
+All deliverables are developed in accordance with the official challenge requirements.
+
+## Product Thinking Principles
+
+The project is guided by the following principles:
+
+- **Problem before solution:** Identify a meaningful unmet need before generating features.
+- **User before technology:** Start with user behaviour, priorities and context.
+- **Root causes over symptoms:** Understand why the problem exists.
+- **Focus over breadth:** Identify a minimum viable segment rather than targeting everyone.
+- **Evidence over assumptions:** Clearly distinguish validated facts, hypotheses and projections.
+- **Value over novelty:** Prioritise measurable improvements in user outcomes.
+- **Simplicity over feature count:** Build the smallest product capable of testing the central hypothesis.
+- **Viability alongside desirability:** Consider adoption, distribution, feasibility and sustainability.
+- **Iteration over attachment:** Be prepared to change or abandon a product direction when evidence contradicts it.
+
+## Expected Deliverables
+
+| Deliverable | Purpose |
+|---|---|
+| Problem landscape | Identify and compare potential user problems |
+| Opportunity assessment | Select the strongest problem to solve |
+| Product strategy | Define the user, value proposition and MVP |
+| Validation plan | Test assumptions and assess demand |
+| Two-page submission | Communicate the complete product argument |
+| Runnable prototype | Demonstrate the proposed product experience |
+
+## Repository Structure
+
+```text
+OS-1/
+├── README.md
+├── research/
+│   ├── problem-discovery.md
+│   └── opportunity-assessment.md
+├── product/
+│   ├── product-strategy.md
+│   └── validation-plan.md
+├── submission/
+│   └── two-pager.pdf
+└── prototype/
+    ├── index.html
+    ├── styles.css
+    └── script.js
+```
+
+*This is a suggested structure. Files should be added as the project develops.*
+
+## Success Criteria
+
+The project aims to produce a solution that demonstrates:
+
+1. A clearly defined and consequential user problem.
+2. A compelling rationale for addressing that problem.
+3. A focused product with a coherent value proposition.
+4. A credible explanation of how the solution improves the user's outcome.
+5. Meaningful differentiation from existing alternatives.
+6. A feasible path to testing, adoption and continued use.
+7. A concise, persuasive submission supported by clear reasoning.
+
+## Guiding Question
+
+**What is the most valuable problem created or amplified by ubiquitous personal AI agents, and what is the simplest product that can meaningfully solve it?**
+
+The goal is not simply to imagine the future of AI, but to identify a problem worth solving and translate that insight into a compelling, testable product.
