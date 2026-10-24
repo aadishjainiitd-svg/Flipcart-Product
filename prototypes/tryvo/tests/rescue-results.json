@@ -1,0 +1,21 @@
+{
+  "passed": 14,
+  "checks": [
+    "All three layouts have multiple valid routes within their budgets",
+    "Missing riders, unfinished routes, over-budget routes and closed bridge have distinct feedback",
+    "Street editing rejects jumps and closures, and truncates a route without loops",
+    "Records preserve first submitted plan, unlock sequentially, and repeated playback cannot add attempts",
+    "Homepage leads with a playable chapter and keeps original stories accessible",
+    "Keyboard connects streets, blocked moves explain the error, and draft survives refresh",
+    "An incomplete route produces a retry, and retry retains the first plan",
+    "All routes work with completed campaign prerequisites",
+    "Replay adds no score or attempt; route records and journal show real local results",
+    "Mobile and desktop layouts have no overflow; all board cells have accessible names",
+    "Navigation safely cancels animation; normal motion completes and restores controls",
+    "Reset deletes route progress and leaves unrelated browser data alone",
+    "Blocked storage still allows a complete route in the current session",
+    "No JavaScript errors or failed assets in the tested journey"
+  ],
+  "errors": [],
+  "failed": []
+}

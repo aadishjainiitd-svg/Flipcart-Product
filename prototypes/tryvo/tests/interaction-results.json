@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-24T03:15:47.546Z",
+  "checks": [
+    "Search supports titles, district, skills and combined filters; upcoming never launches",
+    "Empty results, safe text, keyboard reset and filter persistence",
+    "Incomplete initial form retains draft; stage navigation cannot bypass prerequisites",
+    "Evidence toast is specific, single, polite and leaves focus on the control",
+    "Safe stage review preserves decision draft, initial judgment and support flags",
+    "Completed filter and archived contribution survive refresh; review is read-only",
+    "Independent check and separate reflection draft survive refresh",
+    "Mobile tabs preserve drafts, active state and keyboard focus; controls stay above navigation",
+    "Mobile flagship, independent check and invalid inputs work end to end",
+    "Reset cancellation preserves progress; confirmation clears drafts, filters and only own key",
+    "Blocked storage keeps failure notice persistent; reflection toast does not claim saved",
+    "No browser exceptions, failed assets or external requests across the new journeys"
+  ],
+  "errors": [],
+  "failedAssets": [],
+  "external": []
+}

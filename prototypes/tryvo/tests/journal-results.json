@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-24T13:21:32.172Z",
+  "method": "Isolated Chromium; synthetic fixtures plus real UI interactions. Not user-study data.",
+  "checks": [
+    "First-use journal offers a mission; zero ratings are not invented",
+    "Journal renders dated contributions, real coverage and separate response denominators",
+    "History filters persist; zero results recover without deleting records",
+    "Comparison rejects different tasks, allows matching versions and discloses conditions",
+    "Actual record inspection preserves filters and exposes the original plan",
+    "Rankings defaults to latest task, has no fabricated rank and preserves view preferences",
+    "Fictional samples render their scored plan; no sample changes real state",
+    "No page overflow on journal, records, examples and returning home at 320, 390, 768 and 1440px",
+    "Home and journal lead with Resume and preserve an unfinished attempt",
+    "Connection workbench is keyboard accessible, exclusive and retains drafts after refresh",
+    "Result leads with a concrete contribution, one next action and collapsible details",
+    "Earlier content cannot be mixed into a current-version comparison",
+    "All-seen state offers honest replay guidance and a working library destination",
+    "Reset lives in Demo controls, retains confirmation and clears new view state",
+    "No browser exceptions or failed assets in new dashboard and workspace checks"
+  ],
+  "errors": [],
+  "failures": []
+}

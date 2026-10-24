@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-24T13:24:49.566Z",
+  "checks": [
+    "All five thinking areas and eight connected chapters are visible on the shared map",
+    "One continuous eight-chapter journey moves between routes and all five investigations",
+    "Finale uses real choices, preserves weak-decision feedback, and keeps the independent check separate",
+    "Changing the venue reopens only the final delivery and does not rewrite its historical destination",
+    "Campaign progress, keyboard previews and phone layouts survive refresh",
+    "Reset clears route and investigation campaign progress together and preserves unrelated state",
+    "Malformed route state does not crash the shared world or invent campaign completion",
+    "No browser errors or missing assets across the complete campaign"
+  ],
+  "errors": [],
+  "failed": []
+}

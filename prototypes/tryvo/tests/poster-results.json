@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-24T13:18:31.129Z",
+  "checks": [
+    "Illustrated town is locally loaded with the poster palette and live route controls",
+    "Contribution comparison uses actual first and latest plans without changing saved state",
+    "The animated tram ends at the live festival marker and the success banner appears",
+    "Phone map can pan and fit without overflowing the page or losing a draft",
+    "Phone route controls remain keyboard reachable, and saved routes survive refresh",
+    "The visual update introduces no browser exceptions"
+  ],
+  "errors": []
+}
